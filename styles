@@ -1,9 +1,0 @@
-/* Applying gray color to a specific element */
-p {
-    color: gray;
-}
-
-/* Applying gray color to a class */
-.gray-text {
-    color: gray;
-}
