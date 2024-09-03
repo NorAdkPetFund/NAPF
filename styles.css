@@ -1,5 +1,4 @@
-/* Set Times New Roman as the font for all text */
-* {
+{
     font-family : 'Times New Roman', Times, serif !important;
     font-size : 14pt !important;
 }
